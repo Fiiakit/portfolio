@@ -35,6 +35,9 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # Use Twitter bootstrap library for front end UI and layout
 gem 'bootstrap-sass'
 
+# Use Font Awesome to get icons
+gem 'font-awesome-rails'
+
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug'
